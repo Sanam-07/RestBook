@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-27T12:41:08 NPT" name="Default suite" finished-at="2023-07-27T12:41:29 NPT" duration-ms="21266">
+    <groups>
+    </groups>
+    <test started-at="2023-07-27T12:41:08 NPT" name="Default test" finished-at="2023-07-27T12:41:29 NPT" duration-ms="21266">
+      <class name="Assignment.GetStatusCode">
+        <test-method signature="getStatus()[pri:0, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:08 NPT" name="getStatus" finished-at="2023-07-27T12:41:13 NPT" duration-ms="4270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStatus -->
+        <test-method signature="registerClient()[pri:1, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:13 NPT" name="registerClient" finished-at="2023-07-27T12:41:16 NPT" duration-ms="3762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerClient -->
+        <test-method signature="listOfBooks()[pri:2, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:16 NPT" name="listOfBooks" finished-at="2023-07-27T12:41:18 NPT" duration-ms="1663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfBooks -->
+        <test-method signature="getSingleBook()[pri:3, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:18 NPT" name="getSingleBook" finished-at="2023-07-27T12:41:20 NPT" duration-ms="1836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleBook -->
+        <test-method signature="orderBook()[pri:4, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:20 NPT" name="orderBook" finished-at="2023-07-27T12:41:22 NPT" duration-ms="1942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderBook -->
+        <test-method signature="getorderbooks()[pri:5, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:22 NPT" name="getorderbooks" finished-at="2023-07-27T12:41:24 NPT" duration-ms="1933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getorderbooks -->
+        <test-method signature="getOneOrder()[pri:6, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:24 NPT" name="getOneOrder" finished-at="2023-07-27T12:41:26 NPT" duration-ms="1833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOneOrder -->
+        <test-method signature="updateOrder()[pri:7, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:26 NPT" name="updateOrder" finished-at="2023-07-27T12:41:28 NPT" duration-ms="2078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateOrder -->
+        <test-method signature="deleteOrder()[pri:8, instance:Assignment.GetStatusCode@1972e513]" started-at="2023-07-27T12:41:28 NPT" name="deleteOrder" finished-at="2023-07-27T12:41:29 NPT" duration-ms="1799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrder -->
+      </class> <!-- Assignment.GetStatusCode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
